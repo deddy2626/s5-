@@ -23,4 +23,5 @@
 
 ## Files
 - `CN_module3.md`, `CN_module4.md`, `CN_module5.md` — done
-- FLAT, SE, AI, IDS — waiting for topic lists (FLAT topics received)
+- `FLAT_part1.md`, `FLAT_part2.md` — done
+- SE, AI, IDS — waiting for topic lists
